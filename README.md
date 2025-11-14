@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://justinf02.github.io/onlineBlog/](https://justinf02.github.io/onlineBlog/)**
 
-- 📄 Know about my experiences **[https://www.linkedin.com/in/justin-ferdinand-cs/](https://www.linkedin.com/in/justin-ferdinand-cs/)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/JustinF02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JustinF02" height="30" width="40" /></a>
