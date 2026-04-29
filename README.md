@@ -11,11 +11,24 @@
 <div>
 <a href="https://github.com/JustinF02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JustinF02" height="30" width="40" /></a><a href="https://linkedin.com/in/justin-ferdinand-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justin-ferdinand-cs" height="30" width="40" /></a>
 </p>
-  
-<h3 align="left">Languages and Tools:</h3>
 
-<img src="https://skillicons.dev/icons?i=arduino,bootstrap,c,cpp,css,docker,git,html,java,js,jupyter,linux,matlab,nodejs,opencv,photoshop,pytorch,react,unity" />
-<img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" />
+### 🤖 Robotics & Engineering
+<img src="https://skillicons.dev/icons?i=arduino,ros,raspberrypi,matlab,autocad,unity&theme=dark" />
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,php,latex,md&theme=dark" />
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,react,electron&theme=dark" />
+
+### 🛠️ IDEs & Dev Tools
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,androidstudio,eclipse,cmake,maven,npm,postman,powershell,anaconda,qt&theme=dark" />
+
+### 🐧 OS & DevOps
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,mint,docker,kubernetes,git,github,gitlab,githubactions,mysql&theme=dark" />
+
+### 🎨 Design & Productivity
+<img src="https://skillicons.dev/icons?i=photoshop,notion,discord&theme=dark" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustinF02&show_icons=true&locale=en&layout=compact" alt="JustinF02" /></p>
 
