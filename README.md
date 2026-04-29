@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Justin Ferdinand</h1>
 <h3 align="center">A passionnate Robotic and Autonomous Engineer, graduate from UTC (Université de Technologie de Compiègne, France) in 2025</h3>
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JustinF02" alt="JustinF02" /></a></p>
+<h4 align="center">Currently student at IP Paris (Institut Polytechnique de Paris) and Robotics engineer at Renault Group</h4>>
 
 - 📫 How to reach me **https://www.linkedin.com/in/justin-ferdinand-cs/**
 
@@ -35,4 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinF02&show_icons=true&locale=en" alt="JustinF02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JustinF02&" alt="JustinF02" /></p>
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JustinF02" alt="JustinF02" /></a></p>
 
